@@ -130,7 +130,7 @@ def binary_price(forwards,
   ## References:
   [1] Hull, John C., Options, Futures and Other Derivatives. Pearson, 2018.
   [2] Wikipedia contributors. Binary option. Available at:
-  https://en.wikipedia.org/w/index.php?title=Binary_option
+      https://en.wikipedia.org/w/index.php?title=Binary_option
 
   Args:
     forwards: A real `Tensor` of any shape. The current forward prices to
